@@ -7,4 +7,4 @@ About me:
 + Working on my own GameDev projects and others
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyushuki&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyushuki&layout=compact)
