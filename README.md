@@ -5,4 +5,6 @@ About me:
 + Familiar with: Python, Go, C/C++
 + Some experience in: Backend, Frontend, Arduino, ANN
 + Working on my own GameDev projects and others
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyushuki&layout=compact)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyushuki&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
